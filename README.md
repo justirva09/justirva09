@@ -1,16 +1,31 @@
-### Hi there 👋
-
-<!--
-**justirva09/justirva09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+	<head>
+	</head>
+	<body>
+                <h1>
+                        Hey, I'm ALi woto!
+                        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"    width="25px">
+                        <h2>
+                              Currently building web Apps and hybrid mobile apps on Android & iOS platforms using React. I'm also active in several communities that related to my background.
+                                <img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/kyubey.gif" width="45px">
+                        </h2>
+                </h1>
+                <h3>
+                        <h3 align="top">
+                                <img align="botom" src="https://gpvc.arturio.dev/aliwoto" width="145px" height="25">
+                                <h3>
+                                        <img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/soulgem-madoka.gif" width="45px">
+                                        My Stats in github:
+                                </h3>
+                        </h3>
+                        <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=aliwoto&show_icons=true&&theme=tokyonight" />
+                </h3>
+                <h3>
+                        <h3>
+                                <img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/soulgem-mami.gif" width="45px">
+                                My favorite character: 
+                        </h3>
+                        <img id="Artoria_Pendoragon" align="bottom" src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG"/>
+                </h3>
+	</body>
+</html>
