@@ -4,7 +4,7 @@
 	<body>
                 <h1>
                         Hey, I'm Justirva
-                        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"    width="25px">
+                        <img src="https://github.com/justirva09/justirva09/blob/main/assets/wave.gif?raw=true" width="25px">
                         <h4>
                               Currently building web Apps and hybrid mobile apps on Android & iOS platforms using React. I'm also active in several communities that related to my background.
                                 <img src="https://github.com/justirva09/justirva09/blob/main/assets/kyubey.gif?raw=true" width="45px">
@@ -22,7 +22,7 @@
                         <h3>
                                 My favorite character: 
                         </h3>
-                        <img id="Artoria_Pendoragon" width="400px" align="bottom" src="https://github.com/justirva09/justirva09/blob/main/assets/justirva-fav-character.jpg?raw=true"/>
+                        <img id="Artoria_Pendoragon" width="200px" align="bottom" src="https://github.com/justirva09/justirva09/blob/main/assets/justirva-fav-character.jpg?raw=true"/>
                 </h3>
 	</body>
 </html>
