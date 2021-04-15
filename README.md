@@ -24,7 +24,7 @@
                                 <img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/soulgem-mami.gif" width="45px">
                                 My favorite character: 
                         </h3>
-                        <img id="Artoria_Pendoragon" align="bottom" src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG"/>
+                        <img id="Artoria_Pendoragon" align="bottom" src="https://github.com/justirva09/justirva09/blob/main/assets/justirva-fav-character.jpg?raw=true"/>
                 </h3>
 	</body>
 </html>
