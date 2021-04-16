@@ -22,7 +22,7 @@
                         <h3>
                                 My favorite character: 
                         </h3>
-                        <img id="Artoria_Pendoragon" width="200px" align="bottom" src="https://github.com/justirva09/justirva09/blob/main/assets/justirva-fav-character.jpg?raw=true"/>
+                        <img id="Artoria_Pendoragon" width="200px" align="bottom" src="https://github.com/justirva09/justirva09/blob/main/assets/justirva-fav-character.png?raw=true"/>
                 </h3>
 	</body>
 </html>
