@@ -13,7 +13,7 @@
         <h3>
           My Stats in github:
         </h3>
-	 <img align="bottom" src="https://github-profile-trophy.vercel.app/?username=justirva09&theme=dracula" />
+	 <img align="bottom" src="https://github-profile-trophy.vercel.app/?username=justirva09&theme=tokyonight" />
       </h3>
       <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=justirva09&show_icons=true&&theme=tokyonight" />
     </h3>
