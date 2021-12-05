@@ -4,8 +4,8 @@
       Hey, I'm Justirva
       <img src="https://github.com/justirva09/justirva09/blob/main/assets/wave.gif?raw=true" width="25px">
       <h4>
-        Currently building web Apps and hybrid mobile apps on Android & iOS platforms using React. I'm also active in several communities that related to my background. <img src="https://github.com/justirva09/justirva09/blob/main/assets/kyubey.gif?raw=true" width="45px">
-	      I’m currently learning TypeScript and Dart. 💼 FrontEnd Engineer at <a href="https://bibit.id">Bibit.id</a>
+        Currently building web Apps and hybrid mobile apps on Android & iOS platforms using React. I’m currently learning TypeScript and Dart. I'm also active in several communities that related to my background. <img src="https://github.com/justirva09/justirva09/blob/main/assets/kyubey.gif?raw=true" width="45px">
+	       💼 FrontEnd Engineer at <a href="https://bibit.id">Bibit.id</a>
       </h4>
     </h1>
     <h3>
