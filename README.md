@@ -21,8 +21,6 @@ Hey, I'm Justirva <img src="https://github.com/justirva09/justirva09/blob/main/a
 
 ### My Stats in github:
 
-![](https://github-profile-trophy.vercel.app/?username=justirva09&theme=dracula) 
-
 ![](https://github-readme-stats.vercel.app/api?username=justirva09&show_icons=true&&theme=dracula)
 
 ### My favorite character:
