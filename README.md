@@ -3,7 +3,7 @@ Hey, I'm Justirva <img src="https://github.com/justirva09/justirva09/blob/main/a
 
 #### Currently building web Apps and hybrid mobile apps on Android & iOS platforms using React. I'm also active in several communities that related to my background. <img src="https://github.com/justirva09/justirva09/blob/main/assets/kyubey.gif?raw=true" width="45px" height="25px" />
 
-- 🌱 I’m currently learning TypeScript and Dart.
+- 🌱 I’m currently learning Go and Dart.
 
 
 
